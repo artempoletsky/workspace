@@ -16,5 +16,5 @@
 		
 		concated+=content;
 	}
-	console.log(concated);
+	fs.writeFileSync(target, concated);
 }());
