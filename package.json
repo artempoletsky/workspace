@@ -1,12 +1,23 @@
 {
-  "name": "application-name",
+  "name": "workspace",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.3.5",
+    "express": "~3.3.5",
     "jade": "*"
+  },
+  "description": "workspace\r =========",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deruntermensch/workspace.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deruntermensch/workspace/issues"
   }
 }
