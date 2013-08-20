@@ -1,5 +1,13 @@
 body {
-	background: url("img/body.png");
+	background: url(img/0.png);
+}
+
+.icon {
+	background: url(base64:asdasjd)
+}
+
+.icon 2{
+	background: url(img/1.gif);
 }div {
-	background-image: url("img2/div.png");
+	background-image: url(img/2.jpeg);
 }
